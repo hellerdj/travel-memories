@@ -281,8 +281,8 @@ else if(isset($_GET['beerList14'])){
 	$content .= "<h2>Adventures</h2>"; 
 	$content .= "<span class='row'>";
 	$content .= "<a href='?beerList1'><span class='col-md-4'><img src='img/stbernard_logo.png' alt='Beer Adventures' style='width:304px;height:228px;'><br />Quick Details (Add Link Layover via jQuery)</span></a>"; 
-	$content .= "<span class='col-md-4'><img src='#' alt='Travel Notes' style='width:304px;height:228px;'></span>"; 
-	$content .= "<span class='col-md-4'><img src='#' alt='Runs' style='width:304px;height:228px;'></span>"; 
+	$content .= "<span class='col-md-4'><img src='img/Notebook.png' alt='Travel Notes' style='width:304px;height:228px;'></span>"; 
+	$content .= "<span class='col-md-4'><img src='img/shoe-clipart-shoe-clipart.png' alt='Runs' style='width:304px;height:228px;'></span>"; 
 	$content .= "</span>";
 	$content .= "</div>";
 	
